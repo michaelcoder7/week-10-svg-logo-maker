@@ -26,3 +26,19 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+
+## Activities and Important Information carried out
+
+Generated logo.svg file using node
+
+Link to the walkthrough video is added this README
+
+Package-lock.json and package.json files was generated
+
+necessary extra files created and linked together for functionality
+
+Seperate file for questions was made and implemented into index.js file
+
+## Link to Walkthrough Video
+
+https://watch.screencastify.com/v/KkwhPZtXJTqw3xO6O3F7
