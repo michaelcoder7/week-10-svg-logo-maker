@@ -1,0 +1,25 @@
+{
+  "name": "week-10-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "```md\r AS a freelance web developer\r I WANT to generate a simple logo for my projects\r SO THAT I don't have to pay a graphic designer\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcoder7/week-10-svg-logo-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcoder7/week-10-svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/michaelcoder7/week-10-svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
