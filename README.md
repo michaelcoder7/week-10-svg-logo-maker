@@ -40,3 +40,5 @@ necessary extra files created and linked together for functionality
 Seperate file for questions was made and implemented into index.js file
 
 ## Link to Walkthrough Video
+
+https://watch.screencastify.com/v/lQjnfbPvPrO77z7SRVja
